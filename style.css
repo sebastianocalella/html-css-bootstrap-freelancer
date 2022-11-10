@@ -3,3 +3,8 @@ section:nth-of-type(odd){
     color: white;
     height: 400px;
 }
+
+.my_object{
+    height: 200px;
+    background-color: #ba4b63;
+}
