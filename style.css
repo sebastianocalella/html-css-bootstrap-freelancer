@@ -1,0 +1,5 @@
+section:nth-of-type(odd){
+    background-color: #1abc9c;
+    color: white;
+    height: 400px;
+}
